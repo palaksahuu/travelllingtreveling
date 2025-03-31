@@ -4,5 +4,8 @@ openai
 pinecone-client	
 python-dotenv
 streamlit
-httpx	
+httpx
+requests
+pandas
+numpy
 uvicorn
